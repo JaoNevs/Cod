@@ -19,7 +19,7 @@ loja_um.add_vestuario(camisa_masc)
 
 
 def main():
-    loja_um.exibir_vest
+    loja_um.exibir_vest()
     
 if __name__ == '__main__':
     main()
